@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="near_the">Near the</string>
+    <string name="no_articles">No articles found.</string>
+    <string name="no_connection">No internet connection.</string>
+    <string name="searchResult">Search Results</string>
+    <string name="searchHint">Enter article search here</string>
+    <string name="search">Search</string>
+    <string name="update">Update</string>
+</resources>

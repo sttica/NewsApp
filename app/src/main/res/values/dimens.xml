@@ -1,0 +1,10 @@
+<resources>
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">85dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="standardPadding">12dp</dimen>
+    <dimen name="thumbnailSize">50dp</dimen>
+    <dimen name="line1TextSize">12sp</dimen>
+    <dimen name="line2TextSize">12sp</dimen>
+</resources>
